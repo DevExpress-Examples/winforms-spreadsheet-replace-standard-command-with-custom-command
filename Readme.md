@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomFormatClearContentsCommand.cs](./CS/SpreadsheetCustomCommand/CustomFormatClearContentsCommand.cs) (VB: [CustomFormatClearContentsCommand.vb](./VB/SpreadsheetCustomCommand/CustomFormatClearContentsCommand.vb))
+* [CustomService.cs](./CS/SpreadsheetCustomCommand/CustomService.cs) (VB: [CustomService.vb](./VB/SpreadsheetCustomCommand/CustomService.vb))
+* [Form1.cs](./CS/SpreadsheetCustomCommand/Form1.cs) (VB: [Form1.vb](./VB/SpreadsheetCustomCommand/Form1.vb))
+<!-- default file list end -->
 # How to replace standard SpreadsheetControl command with your own custom command
 
 
